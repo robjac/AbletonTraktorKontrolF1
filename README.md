@@ -1,8 +1,12 @@
+Currently being updated by robjac for continued use as a utility midi controller for Ableton Live on the go. 
+
+
+
 AbletonTraktorKontrolF1
 =======================
-Note: For live 9.1 head to this branch: https://github.com/trash80/AbletonTraktorKontrolF1/tree/Live9.1
+Note: For live 9.1 head to this branch: https://github.com/robjac/AbletonTraktorKontrolF1/tree/Live9.1
 
-Note: For live 9.0 head to this branch: https://github.com/trash80/AbletonTraktorKontrolF1/tree/Live9
+Note: For live 9.0 head to this branch: https://github.com/robjac/AbletonTraktorKontrolF1/tree/Live9
 
 Ableton Remote MIDI Python Scripts for NI Traktor Kontrol F1
 
